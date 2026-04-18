@@ -11,7 +11,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python seed_db.py  # Populate with test business/clients
-python app.py      # Starts on http://localhost:5000
+python app.py      # Starts on http://localhost:5001
 ```
 
 ### 2. Frontend Setup
